@@ -23,3 +23,6 @@ security:
   jwt:
     secret: ${JWT_SECRET:MDEyMzQ1Njc4OWFiY2RlZjAxMjM0NTY3ODlhYmNkZWY=}
     expiration-ms: 3600000
+
+
+# !!!! IMPORTANT: My JWT_SECRET above is a default value for development purposes only.
