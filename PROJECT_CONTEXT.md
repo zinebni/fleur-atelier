@@ -81,12 +81,7 @@ class LigneBouquet {
 * disponible
 * categorie
 
----
 
-## 🛒 Panier (technical)
-
-* One per user
-* Temporary storage before order
 
 ---
 
@@ -306,13 +301,4 @@ Build a:
 
 ---
 
-# 💡 NOTE FOR COPILOT
 
-* Follow layered architecture strictly
-* Avoid putting business logic in controllers
-* Prefer constructor injection
-* Use DTOs for API exposure
-* Respect SOLID principles
-* Write clean, readable, maintainable code
-
----
