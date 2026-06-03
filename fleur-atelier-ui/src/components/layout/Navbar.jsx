@@ -27,10 +27,10 @@ export default function Navbar() {
       <div className="navbar-inner">
         {/* Logo */}
         <Link to="/" className="navbar-logo" onClick={() => setMenuOpen(false)}>
-          <span className="navbar-logo-text">Bouquet</span>
+          <span className="navbar-logo-text">Fleur & Atelier</span>
           <span className="navbar-logo-dot">·</span>
         </Link>
-
+     
         {/* Desktop Nav */}
         <nav className="navbar-links">
           <NavLink to="/" end className={({ isActive }) => `navbar-link ${isActive ? 'active' : ''}`}>
