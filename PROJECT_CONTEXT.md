@@ -1,4 +1,4 @@
-# 🌸 PROJECT CONTEXT — Fleur & Atelier (Enhanced Version)
+# 🌸 PROJECT CONTEXT — Fleur & Atelier 
 
 > Full-stack E-Commerce Platform with Custom Bouquet Builder
 > Spring Boot + React + Clean Architecture + Scalable Payment System
