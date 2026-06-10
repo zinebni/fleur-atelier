@@ -35,7 +35,7 @@ export default function LoginPage() {
 
       <div className="auth-form-side">
         <div className="auth-form-wrap">
-          <Link to="/" className="auth-logo">Bouquet</Link>
+          <Link to="/" className="auth-logo">Fleur & Atelier</Link>
           <h1 className="auth-title">Connexion</h1>
           <p className="auth-sub">Pas encore de compte ? <Link to="/register" className="link-gold">Créer un compte</Link></p>
 

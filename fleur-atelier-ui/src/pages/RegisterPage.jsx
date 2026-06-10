@@ -35,7 +35,7 @@ export default function RegisterPage() {
 
       <div className="auth-form-side">
         <div className="auth-form-wrap">
-          <Link to="/" className="auth-logo">Bouquet</Link>
+          <Link to="/" className="auth-logo">Fleur & Atelier</Link>
           <h1 className="auth-title">Créer un compte</h1>
           <p className="auth-sub">Déjà membre ? <Link to="/login" className="link-gold">Se connecter</Link></p>
 
